@@ -2,7 +2,7 @@
 
 Simulation where **pi** is computed from the collision between two cubes of different masses.
 
-Inspired by this 3Blue1Brown video: <a href=https://www.youtube.com/watch?v=jsYwFizhncE&vl=zh-CN> Why do colliding blocks compute pi? </a>
+Inspired by this 3Blue1Brown video: <a href="https://www.youtube.com/watch?v=jsYwFizhncE&vl=zh-CN"> Why do colliding blocks compute pi? </a>
 
 All collisions are perfectly elastic. The math is as follows:
 The blocks will have mass **1kg** and **(10)^n kg**, then the total number of collisions will be **floor(10^(n+1) * pi)**, which is **pi** to **(n+1)** decimal places.
