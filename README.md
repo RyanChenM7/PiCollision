@@ -9,9 +9,9 @@ The blocks will have mass **1kg** and **(10)^n kg**, then the total number of co
 
 </br>
 
-</br>
-
 Here are some examples.
+
+</br>
 
 Block A = **1kg** | Block B = **(100)^1**
 <img src="https://media.discordapp.net/attachments/795803904075366400/797605381483266052/unknown.png?width=1153&height=676"
